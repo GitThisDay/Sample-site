@@ -1,5 +1,5 @@
 ---
 layout: default
 title: hoi
-image: 
+image: /man-met-hamer.png
 ---
