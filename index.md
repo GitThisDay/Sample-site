@@ -1,15 +1,18 @@
 ---
 layout: default
-title: hoi
+title: Home
 image: /man-met-hamer.png
 ---
 
+
 fiets
 
-# h1 test <br />
+# h1 test
+<br>
+
 ## h2
 
-[link](url) 
+[link](url)
 
 paragra dssdfksdf
 
@@ -17,4 +20,5 @@ asdfasfddsf
 
 asdfsafd
 
-<br /><br />html
+<br>
+<br>html
