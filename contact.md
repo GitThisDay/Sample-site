@@ -1,6 +1,6 @@
 ---
-layout:contact
-title:contact
+layout: contact
+title: contact
 ---
 
 Stukkie tekst
